@@ -1,5 +1,5 @@
 Squad Name: Mocha Majic
-Date: 08/01/2022
+Date: 08/02/2022
 
 Questions to be answered :
 
@@ -11,38 +11,37 @@ Questions to be answered :
 Kim:
 
 
-1- I have two menus, the basic structure, some of the models completed right now.
+1- Same as yesterday, but she implemented a lot of the utilities. Worked on one of the classes, and focused mostly on the dao stuff rather than the menus.
 
-2- I have not struggled yet with anything since I have just starte.
+2- Had a hard time with comparing Nabnak to P0, there's a LOT on the Nabnak board, and it's hard to track in certain places 
 
-3- I wanna continue working on theme, menue, dashboard, and more models today.
+3- Wants to work more DAO and services classes for P0 
 
 
 Pitmon:
 
-1- I designed the entire of the flowchart plan. The main menu and the landing page are also done.
+1- Got some more work done on adding classes required, but may have too many and needs to trim some off. I'm not making this app as robust as the Kanban board
 
-2- Currently, I am struggling with implementing the methods in methods and methods within classes. 
+2- Struggled with following the Kanban board and connecting the dots with the P0 app... there's so much to go over for the board, I really want a solid workday! 
 
-3- I am going ti get different classes created today.
-
+3- Will be getting the DAOs figured out today, and setting up everything for registeration 
 
 Tanner:
 
-1- I have the skelleten and menu setup.
+1- Looked through Nabnak to refresh on what can be used for P0, trying to get a good scope of the project and its necessities 
 
-2- Checking if everything works and push them to the git repo.
+2- Wants to work on the DAO as well, and get the database hooked up as to not store info in a data.txt file 
 
-3- I am going to implement depoaite and withrow menu today.
+3- Struggled with where to put the funds of the banking app... Where can we put the money to be deposited and withdrawln from 
 
 
 Elham:
 
-1- I have finished the app skelleten and the landing page
+1- Worked on skeleton and business model, wants to wait until we get the database connected to implement the login page. Designed tables for SQL as well.
 
-2- One thing I am struggling with is figuring out how classes and methods interact and writing a code with the understanding the biger picture. 
+2- No struggles from yesterday, but did have some trouble with interfaces 
 
-3- I am going too add my login page along with some methods and classes to my project. I may also work on some business modell strategies for my banking application.
+3- Wants to create the tables for SQL, and work on the login page if time allows. 
 
 
 
