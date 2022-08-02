@@ -1,4 +1,52 @@
 Squad Name: Mocha Majic
+Date: 08/01/2022
+
+Questions to be answered :
+
+1- What is the current state of your project?
+2- Something you're struggling with doing the project0?
+3- What do you going to implement today?
+
+
+Kim:
+
+
+1- I have two menus, the basic structure, some of the models completed right now.
+
+2- I have not struggled yet with anything since I have just starte.
+
+3- I wanna continue working on theme, menue, dashboard, and more models today.
+
+
+Pitmon:
+
+1- I designed the entire of the flowchart plan. The main menu and the landing page are also done.
+
+2- Currently, I am struggling with implementing the methods in methods and methods within classes. 
+
+3- I am going ti get different classes created today.
+
+
+Tanner:
+
+1- I have the skelleten and menu setup.
+
+2- Checking if everything works and push them to the git repo.
+
+3- I am going to implement depoaite and withrow menu today.
+
+
+Elham:
+
+1- I have finished the app skelleten and the landing page
+
+2- One thing I am struggling with is figuring out how classes and methods interact and writing a code with the understanding the bigger picture. 
+
+3- I am going too add my login page along with some methods and classes to my project. I may also work on some business modell strategies for my banking application.
+
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*/
+
+Squad Name: Mocha Majic
 Date: 08/02/2022
 
 Questions to be answered :
