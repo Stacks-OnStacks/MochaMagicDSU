@@ -13,9 +13,9 @@ Kim:
 
 1- I have two menus, the basic structure, some of the models completed right now.
 
-2- I have not struggled yet with anything since I have just starte.
+2- I have not struggled yet with anything since I have just start.
 
-3- I wanna continue working on theme, menue, dashboard, and more models today.
+3- I wanna continue working on theme, menu, dashboard, and more models today.
 
 
 Pitmon:
@@ -29,11 +29,11 @@ Pitmon:
 
 Tanner:
 
-1- I have the skelleten and menu setup.
+1- I have the skeleton and menu setup.
 
 2- Checking if everything works and push them to the git repo.
 
-3- I am going to implement depoaite and withrow menu today.
+3- I am going to implement deposit and withdraw menu today.
 
 
 Elham:
@@ -91,5 +91,47 @@ Elham:
 
 3- Wants to create the tables for SQL, and work on the login page if time allows. 
 
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*/
+
+Squad Name: Mocha Majic
+Date: 08/03/2022
+
+Questions to be answered :
+
+1- What is the current state of your project?
+2- Something you're struggling with doing the project0?
+3- What do you going to implement today?
+
+Kim:
 
 
+1- Started creating tables for P0 database and worked on MemberDao and MemberService.
+
+2- Unsure if they need two different classes for Student and Faculty.
+
+3- Work on more of the services in the Dao.
+
+
+Pitmon:
+
+1- BankMembers model set up and implement more of nabnak.
+
+2- Struggled with the logging and implementation of nabnak code.
+
+3- Continue creating notes and the shell of P0 with the Crudible.
+
+Tanner:
+
+1- Worked on setting up all the menus and making sure that everything writes on the tst file.
+
+2- Didn't struggle with anything.
+
+3- Setting up tables for the database of P0.
+
+Elham:
+
+1- Worked on registration page and created MemberDao.
+
+2- Issues with trying to validate their data.
+
+3- Working on and going through MemberService.
