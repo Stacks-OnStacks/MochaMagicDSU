@@ -135,3 +135,51 @@ Elham:
 2- Issues with trying to validate their data.
 
 3- Working on and going through MemberService.
+
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*/
+
+Squad Name: Mocha Magic
+Date: 08/04/2022
+
+Questions to be answered :
+
+1- What is the current state of your project?
+2- Something you're struggling with doing the project0?
+3- What are you going to implement today?
+
+
+Kim:
+
+1- Everything as before + Started normalizing tables (separate course_id, major_id, department_id, etc.)
+
+2- Was extremely tired so didn't end up working more on services and dao
+
+3- either services and dao OR sql injection since we are doing it today
+
+
+Pitmon:
+
+1- Pretty good, done with all except dao and exception handling
+
+2- running sql for the tables but there's an error (hard to figure error message)
+
+3- Waiting end of today for the dao
+
+Tanner:
+
+1- set up tables but not completely finished
+
+2- figuring out variables and object and what belongs to the user and the account
+
+3- Setting up withdrawal and deposit
+
+
+Elham:
+
+1- Created tables
+
+2- No struggles with database
+
+3- wants to work on Member services today
+
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*/
