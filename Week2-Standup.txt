@@ -183,3 +183,49 @@ Elham:
 3- wants to work on Member services today
 
 /*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*/
+Squad Name: Mocha Magic
+Date: 08/05/2022
+
+Questions to be answered :
+
+1- What is the current state of your project?
+2- Something you're struggling with doing the project0?
+3- What are you going to implement today?
+
+
+Kim:
+
+1- She worked on SQL injection yesterday 
+
+2- she got food poisoning yesterday, and this is what she struggled with yesterday.
+
+3- She will try to finish SQL injection for her other classes today
+
+
+Pitmon:
+
+1- The state of his project is good.
+
+2- Something he struggles with right now is that he has a LinkedList, but he is not sure where to go with it. Also, he is trying to figure out the flow of the program.
+
+3- He wants to implement the LinkedList today and create his accounts methods like Withrow and deposit.
+
+Tanner:
+
+1- He did the SQL injection and ability to Withrow money, and he also did SQL tables.
+
+2- The trouble he had was creating ArrayList.
+
+3- Today, he wants to have his MVP finished. 
+
+
+Elham:
+
+1- Yesterday I finished up member registration through memberservices and memberDao. It means that right now, the registration data can successfully add to the table in the database.
+
+2- One roadblock for me was handling data in the memberDao and sending it to the database.
+
+3- I am going to work on the logging page menu, which is pretty much the same as the registration page. Then I'll start to work on my app dashboard, and I plan to finish it during the weekend.
+
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*/
+
