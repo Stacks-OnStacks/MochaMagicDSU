@@ -279,5 +279,53 @@ Pitmon:
 
 /*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
 
+Squad Name: Mocha Magic
+Date: 08/09/2022
 
+Questions to be answered :
+
+1- What is the current state of your project?
+2- Something you're struggling with doing the project0?
+3- What are you going to implement today?
+
+
+Kim:
+
+1- Lot of the functionality for the database and create students and enroll them in classes.
+
+2- Refactor some functionality and start on the testing.
+
+3- Roadblock of a small mistake in their update statement.
+
+
+
+Elham:
+
+1- Finished my testing for project 0 and data validation for registration.
+
+2- Creating documentation and go over the whole project.
+
+3- Struggled with mocking for the tests.
+
+
+
+Tanner:
+
+1- Finished up all the functionality of P0 and finished most of the data validation.
+
+2- Create all test for P0, set up the logger correctly, and remove all unnecessary print-outs.
+
+3- A migraine.
+
+
+
+Pitmon:
+
+1- Has most of the MVP met and only a few things left to do.
+
+2- Have all the MVP to finish and getting a few tests done, then practice for the demonstration.
+
+3- Struggling with setting up a presentable form of P0.
+
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
 
