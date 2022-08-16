@@ -1,0 +1,43 @@
+﻿/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
+
+Squad Name: Mocha Magic
+Date: 08/15/2022
+
+Elham
+1. Learning hibernate, excited to self learn
+2. Merging conflicts
+
+
+Paul
+1.  Also excited to learn hibernate, excited to try using JSON session cookies
+2.  Worried about merging conflicts as well
+
+
+Tanner
+1. Working on Hibernate, creating a project from scratch
+2. Working on a project together, 
+
+
+Pitmon
+1. Looking forward to presentation, setting up hibernate
+2. Worried about hibernate configuration, using servlets to , configuring logger for tomcat server
+
+
+
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
+
+Squad Name: Mocha Magic
+Date: 08/16/2022
+
+Elham & Pitmin
+1.  Done is in the code as a class, passed all the unit tests, and it's pushed to main, and it is functional.
+2.  Skeleton of the project finished and looked into hibernate and still have more to go.
+3.  Hibernate
+
+
+Paul & Tanner
+1.  Functional, passes all our unit tests, commented thoroughly , and pushed to the main branch.
+2.  Laying out the plan for Project 1 and the Endpoints that we will need. What each method each for the endpoint should do. Set up models.
+3.  Figuring out Hibernate and set up the servlets for each of the endpoints.
+
+
