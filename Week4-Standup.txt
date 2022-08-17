@@ -41,3 +41,34 @@ Paul & Tanner
 3.  Figuring out Hibernate and set up the servlets for each of the endpoints.
 
 
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
+
+Squad Name: Mocha Magic
+Date: 08/17/2022
+
+
+
+Elham 
+1. Done is create dish.
+2. Today's plan is to finish dish and users table.
+3- struggled with creating dish table.
+
+Pitmin
+1. Done is git and branch and most of the users.
+2. Today's plan is to finish user and get the registraition test and finish the user.
+3- struggled was understimetaing the testing part for database.
+
+
+Paul 
+1. Done is set up their models and made hibernate work.
+2. Today's plan is the entire user and servlet is the main concern.
+3- struggled with strategy for using git seperatly.
+
+Tanner
+1. Done is Done is set up their models and made hibernate work.
+2. Today's plan is the entire user and servlet is the main concern.
+3- struggled with strategy for using git seperatly with branches.
+
+
+
+
