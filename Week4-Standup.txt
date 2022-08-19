@@ -70,5 +70,60 @@ Tanner
 3- struggled with strategy for using git seperatly with branches.
 
 
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
 
+Squad Name: Mocha Magic
+Date: 08/18/2022
+
+Tanner
+1. Finished UserService class, UserDao. Learned to merge branches
+2. Finish up User classes, possibly finish payment
+3. Takes a long time to finish things that seem simple.
+
+
+Elham
+1. Setting up branches and merging changes, pulling and pushing to remote repository, finished Dish table
+2. Finish unit testing for User table and authentication servlet
+3. Finish dish table, begin building UserPayments
+
+
+Pitmon
+1. Learning to merge branches and push changes to github,
+2. Getting User and Dish servlets with services and dao finished, beginning UserPayments
+3. Fixing the error in writing to the UserTable, finishing implementing registration
+
+
+Paul
+1. Added UserServlet and implemented doPost method for basic registration
+2. Set up UserPayment servlet and other  UserPayment classes
+3. Learning to merge branches and push changes to remote repository, pulling changes without overwriting merges.
+
+
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
+
+Squad Name: Mocha Magic
+Date: 08/19/2022
+
+Tanner
+1. Finished up barebones functionality of user payments package, also finished Users unit testing
+2. Finishing up and polishing user payments, make sure it's at 100%. Get started on Dish package
+3. Figuring out how to work with mockito
+
+
+Elham
+1. Finished up Dish package with some test cases, may add more if needed 
+2. Start work on user payments
+3. Test cases, they need to work more consistently, but that will come with time.
+
+
+Pitmon
+1. Finished Users package, save for one unit test. Also added comments to Servlet Context.
+2. Start work on user payments
+3. Struggled with 1/4 unit tests, and needs to sort something out with github
+
+
+Paul
+1. Finished user payments package.
+2. Will work on Dish, and implement unit tests as well.
+3. Struggled with writing tests, needs more practice and repitition. It takes time!
 
