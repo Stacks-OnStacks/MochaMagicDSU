@@ -1,0 +1,27 @@
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
+
+Squad Name: Mocha Magic
+Date: 08/22/2022
+
+Tanner
+1. I worked on tests for all Service classes and looking into what we might be missing or not catching.
+2. Working on setting up deployment and validation for our classes and Order Details.
+3. Forgetting to comment then coming back to it not understanding what I just did.
+
+
+Elham
+1. Created Order table and almost completely finished!
+2. Updating and creating Order with servlet and finish it up. Functional Orders.
+3. Didn't struggle with anything.
+
+
+Pitmon
+1. UserPayment package was finished and working on Orders.
+2. Fixing the tables for Project 1 and work on the inputs of the tables.
+3. Testing was causing issue and figuring out how they function.
+
+
+Paul
+1. Made Order's table and added functionality to Order Details.
+2. Finishing Order Details. Figure out Deployment.
+3. How to set up Order Details and Orders and getting other information from other tables.

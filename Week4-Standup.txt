@@ -49,25 +49,25 @@ Date: 08/17/2022
 
 
 Elham 
-1. Done is create dish.
+1. Create dish is done.
 2. Today's plan is to finish dish and users table.
 3- struggled with creating dish table.
 
 Pitmin
 1. Done is git and branch and most of the users.
-2. Today's plan is to finish user and get the registraition test and finish the user.
-3- struggled was understimetaing the testing part for database.
+2. Today's plan is to finish user and get the registration test and finish the user.
+3- struggled was underestimating the testing part for database.
 
 
 Paul 
 1. Done is set up their models and made hibernate work.
 2. Today's plan is the entire user and servlet is the main concern.
-3- struggled with strategy for using git seperatly.
+3- struggled with strategy for using git separately.
 
 Tanner
-1. Done is Done is set up their models and made hibernate work.
+1. Done is  set up their models and made hibernate work.
 2. Today's plan is the entire user and servlet is the main concern.
-3- struggled with strategy for using git seperatly with branches.
+3- struggled with strategy for using git separately with branches.
 
 
 /*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
@@ -105,7 +105,7 @@ Squad Name: Mocha Magic
 Date: 08/19/2022
 
 Tanner
-1. Finished up barebones functionality of user payments package, also finished Users unit testing
+1. Finished up a barebones' functionality of user payments package, also finished Users unit testing
 2. Finishing up and polishing user payments, make sure it's at 100%. Get started on Dish package
 3. Figuring out how to work with mockito
 
@@ -125,5 +125,6 @@ Pitmon
 Paul
 1. Finished user payments package.
 2. Will work on Dish, and implement unit tests as well.
-3. Struggled with writing tests, needs more practice and repitition. It takes time!
+3. Struggled with writing tests, needs more practice and repetition. It takes time!
+
 
