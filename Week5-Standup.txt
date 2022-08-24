@@ -32,14 +32,14 @@ Squad Name: Mocha Magic
 Date: 08/24/2022
 
 Tanner
-Setting up codeline for project, working on unit tests
-Helping Paul with setting up MVP, having complete unit tests, getting codepipeline to work
-Worked on codepipeline for 4 hours, still not working completely
+1. Setting up codeline for project, working on unit tests
+2. Helping Paul with setting up MVP, having complete unit tests, getting codepipeline to work
+3. Worked on codepipeline for 4 hours, still not working completely
 
 Elham
-Worked on OrderDetails table, most of it is functional, did testing of endpoints with postman and made improvements as needed
-Finish up app functionality, add comments to code, finish unit tests for all classes in project
-Figuring out what code to write for app functionality, needing to check example projects often remember how to write code
+1. Worked on OrderDetails table, most of it is functional, did testing of endpoints with postman and made improvements as needed
+2. Finish up app functionality, add comments to code, finish unit tests for all classes in project
+3. Figuring out what code to write for app functionality, needing to check example projects often remember how to write code
 
 Pitmon
 Finished all tables for project, not necessarily fully functional with input and output, prepared presentation for project, project presentation is about 6 minutes long.
@@ -47,6 +47,6 @@ Fixing current project, meeting all MVP requirements
 Troubleshooting
 
 Paul
-Added submit order functionality, fixed add OrderDetail to increments order amount and check if it goes over Payment balance
-Adding unit tests, add comments to code, finish adding put and delete to OrderDetails
-I struggled with writing queries in hql
+1. Added submit order functionality, fixed add OrderDetail to increments order amount and check if it goes over Payment balance
+2. Adding unit tests, add comments to code, finish adding put and delete to OrderDetails
+3. I struggled with writing queries in hql
