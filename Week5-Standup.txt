@@ -28,6 +28,9 @@ Paul
 
 /*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
 
+Squad Name: Mocha Magic
+Date: 08/24/2022
+
 Tanner
 Setting up codeline for project, working on unit tests
 Helping Paul with setting up MVP, having complete unit tests, getting codepipeline to work
