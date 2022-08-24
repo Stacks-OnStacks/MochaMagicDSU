@@ -25,3 +25,25 @@ Paul
 1. Made Order's table and added functionality to Order Details.
 2. Finishing Order Details. Figure out Deployment.
 3. How to set up Order Details and Orders and getting other information from other tables.
+
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
+
+Tanner
+Setting up codeline for project, working on unit tests
+Helping Paul with setting up MVP, having complete unit tests, getting codepipeline to work
+Worked on codepipeline for 4 hours, still not working completely
+
+Elham
+Worked on OrderDetails table, most of it is functional, did testing of endpoints with postman and made improvements as needed
+Finish up app functionality, add comments to code, finish unit tests for all classes in project
+Figuring out what code to write for app functionality, needing to check example projects often remember how to write code
+
+Pitmon
+Finished all tables for project, not necessarily fully functional with input and output, prepared presentation for project, project presentation is about 6 minutes long.
+Fixing current project, meeting all MVP requirements
+Troubleshooting
+
+Paul
+Added submit order functionality, fixed add OrderDetail to increments order amount and check if it goes over Payment balance
+Adding unit tests, add comments to code, finish adding put and delete to OrderDetails
+I struggled with writing queries in hql
