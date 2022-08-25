@@ -50,3 +50,28 @@ Paul
 1. Added submit order functionality, fixed add OrderDetail to increments order amount and check if it goes over Payment balance
 2. Adding unit tests, add comments to code, finish adding put and delete to OrderDetails
 3. I struggled with writing queries in hql
+
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
+
+Squad Name: Mocha Magic
+Date: 08/25/2022
+
+Tanner
+1. MVP is met, worked on minor tests for all packages. Still has some work for testing more complicated methods
+2. Plans to finish the project with presentation.
+3. Nothing
+
+Elham
+1. Finished Orders Details with unit testing and comments
+2. Will be taking care of all postman requests for tomorrow's presentation. Deploy first!
+3. Noticed that Users can view all users, and delete any other user. Ran into errors trying to fix it.
+
+Pitmon
+1. Project is finished! MVP has been met, and we are adding comments and unit tests as we go over the code.
+2. Worked on fixing the tables, and getting comments added.
+3. Struggled with deployment, but we'll be taking care of that today.
+
+Paul
+1. Added order submission, order history.
+2. Needs to add the readme, comment the code, and work on the presentation for tomorrow.
+3. Struggled with setting up postman flow, and ordering from order history.
