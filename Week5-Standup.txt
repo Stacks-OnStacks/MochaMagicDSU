@@ -75,3 +75,28 @@ Paul
 1. Added order submission, order history.
 2. Needs to add the readme, comment the code, and work on the presentation for tomorrow.
 3. Struggled with setting up postman flow, and ordering from order history.
+
+/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
+
+Squad Name: Mocha Magic
+Date: 08/26/2022
+
+Tanner
+1. Finished up Project 1. Set up logger in every Service and wrote a few test.
+2. Practicing our Presentation.
+3. Nothing
+
+Elham
+1. Finished Project 1 and setting up deployment. Added checks for Services and setting the Logger.
+2. Practice Presenting.
+3. Struggled with deploying project
+
+Pitmon
+1. Finished Project 1 and setting up deployment. Added Comments.
+2. Practice Presenting.
+3. Struggled with deploying project.
+
+Paul
+1. Created Readme and Presentation. Tested our Postman requests and fixed errors. Set up dummy data for our presentation.
+2. Practicing our Presentation.
+3. Deciding what we needed to finish and what to push aside.
