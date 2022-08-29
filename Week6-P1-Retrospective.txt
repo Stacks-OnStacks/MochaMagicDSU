@@ -1,0 +1,25 @@
+Mocha Magic Project 1 Retrospectives
+8/29/2022
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Elham: If given another chance, she would focus a lot more on data validation. While validation was not a big requirement, she would have liked to work more with unit testing/input validation for the application as a whole, specifically with the services layer.
+
+
+
+Khalis: If given more time, he would have had a lot better communication with his project partner from the start of the project, which in turn would have allowed the two of them to make a lot more progress on P1.
+
+
+
+Kim: If she could start over, she would have liked to put more time into unit testing, rather than just working on the functional code. Overall, she wants to carry out a lot more testing. Additionally, git flow could have used some improvement with the branches.
+
+
+
+Tanner: If given a chance to start over, he would go through his code for code comments, written at the time of each functions creation. He would also opt to study more terminology for a better understanding of the P1 fundamentals.
+
+
+
+Pitmon: If given more time, he would have put a LOT more time into making unit tests functional. We had all these test suites with not many tests in them, and intermittent testing as the functions are being created would have made the application much more smooth.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
