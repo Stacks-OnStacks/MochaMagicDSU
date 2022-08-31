@@ -45,3 +45,24 @@ Tanner: " "
 Pitmon: " "
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Mocha Magic Daily StandUps
+8/31/2022
+
+Elham: Yesterday, she got finished with most of user, but still has some work to do on usercontroller. Struggled with connecting to the db, like we all have. Will still be working on user package today, and will finish documentation along with it.
+
+
+
+Khalis: Yesterday, he got files made for game class, created folders for dto, and got work done on games package. Struggled a little with Spring, but has also been practicing, and will be working on getting game class written out.
+
+
+
+Kim: Yesterday, she worked on tiers, and respective class and repo. Remember to do documentation! Will finish services and controller for tiers, and still needs to connect to db.
+
+
+
+Tanner: Yesterday, he worked mostly with spring, and set up game detail class, while removing unneeded hibernate util and associated test suite. Will get connected to the DB. Struggled a little with spring, but will get things figured out with more practice!
+
+
+
+Pitmon: Yesterday, worked on user payments package, and got a fair amount of the utility package done as well. Struggled a little with spring, and the yaml config file going up to the remote repo, but got it sorted out!
