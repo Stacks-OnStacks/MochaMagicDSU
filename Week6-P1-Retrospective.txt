@@ -66,3 +66,26 @@ Tanner: Yesterday, he worked mostly with spring, and set up game detail class, w
 
 
 Pitmon: Yesterday, worked on user payments package, and got a fair amount of the utility package done as well. Struggled a little with spring, and the yaml config file going up to the remote repo, but got it sorted out!
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Mocha Magic Daily StandUps
+9/1/2022
+
+Elham: Yesterday, she changed some data validation methods in services, and handled them in the request with hibernate data validation annotations. Also finished user controller, and has all finished but not tested the registration and login functionality - needs tiers to be finished for testing.
+	No struggles for yesterday, and wants to start unit tests for Users class today.
+
+
+Khalis: Yesterday, he got game services and controller started, and changed the repo from class to interface. Also worked on getting DTOs for game finished. Struggled with not really knowing which specific services to add, especially so with spring. Will get Game Service finished by today.
+
+
+
+Kim: Yesterday, she did a lot of CRUD functionality for tier, as well as testing with validation for tier creation. Still needs to add some functionality for tier, and will add the UI repo as well 
+
+
+
+Tanner: Yesterday, he helped Elham with input validation. Also set up most of game details, and fixed the DB tables! Struggled with figuring out EXACTLY what we are doing with certain aspects of the application. Plans to finish game_details today, with tests and comments. 
+
+
+
+Pitmon: Yesterday, worked on user payment services, repo, and dto for new payment + response. Needs to add updatepaymentinfo to dto reqs, and finish the controller with repo for user payments. Struggled with DB tables yesterday.
