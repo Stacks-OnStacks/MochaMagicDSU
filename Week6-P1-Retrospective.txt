@@ -89,3 +89,31 @@ Tanner: Yesterday, he helped Elham with input validation. Also set up most of ga
 
 
 Pitmon: Yesterday, worked on user payment services, repo, and dto for new payment + response. Needs to add updatepaymentinfo to dto reqs, and finish the controller with repo for user payments. Struggled with DB tables yesterday.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Mocha Magic Daily StandUps
+9/2/2022
+
+
+Elham: Yesterday, she changed a lot of things in Users, and got a lot of tests written for the user services. Struggled with creating update user, and will be trying to fix this today. The plan for the weekend is to finish the functionality of user, and will add some stuff to other classes within the project to help with User functionality. 
+
+
+
+Khalis: Yesterday, he worked on GameService, and began working on game repo. For today, he wants to get the game repo complete, and wants ton complete game controller class over the weekend. Struggled with time management, and sleep schedule.
+
+
+
+Kim: Yesterday, she worked with Elham and Khalis and Pitmon to help with their related classes. For today, she wants to work on tiers and how they work with payment class, also thinks we should implement a monthly charge for the tiers class.
+
+
+
+Tanner: Yesterday, he helped getting the group caught up on their classes. Fixed a few things in game details, but has most the code done, only needs comments and tests. Will comment, test, and help the group over the weekend.
+
+
+
+Pitmon: Yesterday, I got most of Payment done with the help of the group, but still needs to get tests and comments written for the class. Please feel free to change anything needed within the class for implementation into the rest of thr groups' classes. Struggled with the flow of Spring, but I'll be bootcamping myself over the weekend. 
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
