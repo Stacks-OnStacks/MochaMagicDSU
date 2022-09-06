@@ -1,0 +1,21 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Mocha Magic Daily StandUps
+9/6/2022
+
+Elham: Over the weekend, she worked on test cases for users, and did not struggle with anything regarding the functionality of the User class. Plans to work with the group on making the api functional today to make it complete
+
+
+
+Khalis: Over the weekend, he worked on the repository class for the game package, game dtos, and also studied for QC evals. Wants to finish game dto by the end of day, and struggled with the code detail of what he's been working on.
+
+
+
+Kim: Over the weekend, she worked with Elham to connect tiers to user payments, with some testing in postman. Over the weekend, studied for qc, and did a basic outline of the UI. Wants to focus today on finishing the api, with external api, and set up the basic template for the ui.
+
+
+
+Tanner: Over the weekend, he worked on an overall check of the api, and implemented a few tests. Struggled with piecing all of the app together and understand how things fit into eachother. For today, plans to finish up game detail, and help others make the application functional.
+
+
+
+Pitmon: Over the weeked, worked on not a whole lot of the project. On Monday, he got test cases done with comments for the user payment package, but struggled with studying for QC. Plans to get the api functional today with the team, and also wants to add the required external ui.
