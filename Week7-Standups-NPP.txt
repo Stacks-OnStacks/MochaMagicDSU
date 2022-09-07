@@ -1,0 +1,15 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Week 7 Daily Standups
+
+9/7/2022
+
+
+Elham: Worked yesterday on Postman endpoint testing. Also looked into the codebuilder deployment for p2, and has been working on setting it up. Struggled a little with Spring Security concepts, but overall understands the basics. Wants to finish functionality and begin UI work today.
+
+Khalis: Yesterday, he worked on evaluations for training. Tried to get game controller and game DTOs, but something came up. Struggled with time management, and plans to work today on games.
+
+Kim: Yesterday she worked on a quick setup for the react ui, with repo. The react repo is one deep on the cookies casino. Will be starting to help with Games, as we need the back end API finished so we can move on to the front end. Plans on finishing API today, and starting UI.
+
+Tanner: Yesterday, finished game detail tests for void methods, also helped with spring security. Found a blackjack API we can use with our project. Today, plans to have API MVP met. 
+
+Pitmon: Yesterday was part one of Spring Security setup! Struggled with some of the configuration, and will be finishing that today. Also plans to get API to a point where it meets MVP.
