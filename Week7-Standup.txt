@@ -19,3 +19,41 @@ Tanner: Over the weekend, he worked on an overall check of the api, and implemen
 
 
 Pitmon: Over the weeked, worked on not a whole lot of the project. On Monday, he got test cases done with comments for the user payment package, but struggled with studying for QC. Plans to get the api functional today with the team, and also wants to add the required external ui.
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Week 7 Daily Standups
+
+9/7/2022
+
+
+Elham: Worked yesterday on Postman endpoint testing. Also looked into the codebuilder deployment for p2, and has been working on setting it up. Struggled a little with Spring Security concepts, but overall understands the basics. Wants to finish functionality and begin UI work today.
+
+Khalis: Yesterday, he worked on evaluations for training. Tried to get game controller and game DTOs, but something came up. Struggled with time management, and plans to work today on games.
+
+Kim: Yesterday she worked on a quick setup for the react ui, with repo. The react repo is one deep on the cookies casino. Will be starting to help with Games, as we need the back end API finished so we can move on to the front end. Plans on finishing API today, and starting UI.
+
+Tanner: Yesterday, finished game detail tests for void methods, also helped with spring security. Found a blackjack API we can use with our project. Today, plans to have API MVP met. 
+
+Pitmon: Yesterday was part one of Spring Security setup! Struggled with some of the configuration, and will be finishing that today. Also plans to get API to a point where it meets MVP.
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Mocha Magic Daily StandUps
+9/8/2022
+
+Elham: Yesterday, she worked on testing user and admin stories through postman. Got deactivate users working as well, as well as adding a small change to default payment to check if the user addins a default card already has a default card, and worked on CRUD for payments. 
+	Created a new method for tier service to update the tierid withing the user table. Finish API today!
+
+
+Khalis: Yesterday, finished classes for Game, save for some game requests, with help from Kim. Struggled with figuring out what to do next with the project, but also with React, since he is still new with JavaScript. Finish API today!
+
+
+Kim: Yesterday, she worked on UI for most the day. Today, still wants to work on the UI, and wants to work on getting data from the db to show up on the UI, which will be a big step forward in terms of the application being finished. Finish API today!
+
+
+Tanner: Yesterday, worked on UI with registration process. Also worked a little on the external API with creating the blackjack game. Struggled with understanding where to implement the external API within our UI. Finish API today!
+
+
+Pitmon: Yesterday, worked on setting up Spring Security with Jwts for session tokens. Something is wrong with JwtFilter, and may cause us to scrap spring security entirely for time sake. Struggled with JS/React, and getting Jwts to work. Finish API today!
