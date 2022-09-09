@@ -57,3 +57,30 @@ Tanner: Yesterday, worked on UI with registration process. Also worked a little 
 
 
 Pitmon: Yesterday, worked on setting up Spring Security with Jwts for session tokens. Something is wrong with JwtFilter, and may cause us to scrap spring security entirely for time sake. Struggled with JS/React, and getting Jwts to work. Finish API today!
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Mocha Magic Daily StandUps
+9/9/2022
+
+Elham: Yesterday, she completed postman testing functionality, our API passes all tests. No struggles, and ignored a few tests because they did not make sense functionally, like updating a game's details. Today, she plans to get some features of the UI finished.
+
+
+Khalis: Yesterday, he worked on the presentation, but did not get too much done on it. Struggled with trying to get his UI to work in terms of showing up on his web browser. 
+
+
+Kim: Yesterday, she worked on UI functionality regarding tiers. We can create a tier, and it has been added to a guard for isAdmin check. Also added MUI branch, and fixed an issue with our base URL. Our API connects to our UI. Today, plans to add more to tiers so it display's properly, and will continue to work on sections in the UI
+
+
+Tanner: Yesterday, worked on implementing UI features with the Game Table, and set up auth. Tried to set up roulette within react.js, but ran into some errors. By today, he wants to finish ALL game functionality when talking to the UI. Struggled with charging a customer's account to play a game, and have that information persisted.
+
+
+Pitmon: Yesterday, worked on getting Jwts to work, which they finally do. Also got some functionality added to Payment in the UI, and commented some of the Payment component as well. Struggled with getting Jwts to work, but we got through it with some help from Rei and Charles. Today, he plans to work on getting our backend deployed through AWS, and helping with the UI as needed.
+
+
+
+
+
+
+
+
