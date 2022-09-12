@@ -1,0 +1,14 @@
+Project
+	What we did well: The demo flow was alright. We were relatively satisfied with our API, but there is always room for improvement!
+
+	
+	What we can work on: We could have added a bit more flavor to the site. We should definitely implement material UI. We could have also gotten more work done with game implementation.
+
+
+
+Presentation
+	What we did well: We did good, overall energy was high, and we conveyed a sense of excitement about the product. 
+
+
+	
+	What we can do better: Certain slides can be shorter, the demo could have been zoomed in, and the slides could have been neat and concise.
